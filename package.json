@@ -1,0 +1,8 @@
+{
+  "name": "gpu-info-nv",
+  "version": "1.0.1",
+  "description": "Shows NVIDIA GPU Load, Temp, Name, Clocks",
+  "main": "index.js",
+  "author": "RynerNO",
+  "license": "MIT"
+}

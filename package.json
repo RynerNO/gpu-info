@@ -4,5 +4,6 @@
   "description": "Shows NVIDIA GPU Load, Temp, Name, Clocks",
   "main": "index.js",
   "author": "RynerNO",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/RynerNO/gpu-info-nv.git"
 }
